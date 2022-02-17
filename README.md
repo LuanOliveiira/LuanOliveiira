@@ -14,7 +14,6 @@ como Hardware e Segurança da Informação (Pentester Junior), Python, Node.js e
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanOliveiira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
-##
   
   </div>
 <div style="display: inline_block"><br>
