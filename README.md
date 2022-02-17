@@ -8,7 +8,7 @@ como Hardware e Segurança da Informação (Pentester Junior), Python, Node.js e
 
 ##
 
-<div align="center">
+<div align="display: inline_block">
   <a href="https://github.com/LuanOliveiira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanOliveiira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanOliveiira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
