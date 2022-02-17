@@ -13,8 +13,8 @@ Também atuo como Design👋
 
 <div align="center">
   <a href="https://github.com/LuanOliveiira">
-  <img height="160em" width="500" src="https://github-readme-stats.vercel.app/api?username=LuanOliveiira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanOliveiira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=LuanOliveiira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanOliveiira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
 ##
