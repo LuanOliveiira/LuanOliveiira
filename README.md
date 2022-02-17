@@ -3,10 +3,13 @@ Atualmente estudando Engenharia da Computação. Possuo conhecimentos no campo d
 como Hardware e Segurança da Informação (Pentester Junior), Python, Node.js e JavaScript.
 Também atuo como Design👋
 
+##
+
 - 🔭 Em busca de trabalho
 - 🌱 Estudando - Segurança da Informação
 - 💬 Graduação - Engenharia da Computação
 
+##
 
 <div align="center">
   <a href="https://github.com/LuanOliveiira">
@@ -14,6 +17,7 @@ Também atuo como Design👋
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanOliveiira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
+##
   
   </div>
 <div style="display: inline_block"><br>
@@ -33,6 +37,8 @@ Também atuo como Design👋
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg">
   
   </div>
+  
+  ##
   
   ![Snake animation](https://github.com/LuanOliveiira/LuanOliveiira/blob/output/github-contribution-grid-snake.svg)
   
