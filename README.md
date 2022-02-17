@@ -1,4 +1,4 @@
-## Olá! Eu sou Luan Oliveira 
+### Olá! Eu sou Luan Oliveira 
 Atualmente estudando Engenharia da Computação. Possuo conhecimentos no campo da tecnologia,
 como Hardware e Segurança da Informação (Pentester Junior), Python, Node.js e JavaScript.👋
 
@@ -6,6 +6,7 @@ como Hardware e Segurança da Informação (Pentester Junior), Python, Node.js e
 - 🌱 Estudando - Segurança da Informação
 - 💬 Graduação - Engenharia da Computação
 
+##
 
 <div align="center">
   <a href="https://github.com/LuanOliveiira">
@@ -13,6 +14,7 @@ como Hardware e Segurança da Informação (Pentester Junior), Python, Node.js e
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanOliveiira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
+ ##
   
   </div>
 <div style="display: inline_block"><br>
@@ -30,8 +32,20 @@ como Hardware e Segurança da Informação (Pentester Junior), Python, Node.js e
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg">
-  
   </div>
+ 
+ ##
+ 
+ <div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/luanoliveiira22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luangreen0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luan-oliveira2022/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/LuanOliveiira/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
   
   
   
