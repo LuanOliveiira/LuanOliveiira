@@ -1,6 +1,7 @@
 ## Olá! Eu sou Luan Oliveira 
 Atualmente estudando Engenharia da Computação. Possuo conhecimentos no campo da tecnologia,
-como Hardware e Segurança da Informação (Pentester Junior), Python, Node.js e JavaScript.👋
+como Hardware e Segurança da Informação (Pentester Junior), Python, Node.js e JavaScript.
+Também atuo como Design👋
 
 - 🔭 Em busca de trabalho
 - 🌱 Estudando - Segurança da Informação
@@ -9,8 +10,8 @@ como Hardware e Segurança da Informação (Pentester Junior), Python, Node.js e
 
 <div align="center">
   <a href="https://github.com/LuanOliveiira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanOliveiira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanOliveiira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuanOliveiira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanOliveiira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
   
