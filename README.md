@@ -1,4 +1,4 @@
-## Olá! Eu sou Luan Oliveira 
+## Olá! Bem vindo ao meu perfil, sou Luan Oliveira.
 Atualmente estudando Engenharia da Computação. Possuo conhecimentos no campo da tecnologia,
 como Hardware e Segurança da Informação (Pentester Junior), Python, Node.js e JavaScript.
 Também atuo como Design👋
